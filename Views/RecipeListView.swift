@@ -30,6 +30,7 @@ struct RecipeListView: View {
 
 // Github commit 2 comment
 
+// up to date?
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         RecipeListView()
