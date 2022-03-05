@@ -15,7 +15,6 @@ struct recipeDetailView: View {
             
                 VStack(alignment: .leading){
                     
-                    
                     Image(recipe.image).resizable().scaledToFill()
                     
                     VStack(alignment: .leading) {
